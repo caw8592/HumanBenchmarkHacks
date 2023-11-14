@@ -1,8 +1,6 @@
 import java.awt.*;
 
-import javax.swing.JFrame;
-
-public class test {
+public class GetColor {
     public static void main(String[] args) throws Exception {
         while (true) {
             Robot r = new Robot();

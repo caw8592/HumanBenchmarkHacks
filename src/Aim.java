@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.InputEvent;
 
-public class App {
+public class Aim {
 
     public static void main(String[] args) throws Exception {
         Robot r = new Robot();
